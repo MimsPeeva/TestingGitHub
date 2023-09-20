@@ -1,1 +1,2 @@
-string name = "Hena";
+string catName = "Hena";
+string dogName = "Doni";
